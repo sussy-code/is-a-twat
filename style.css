@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #151515;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #1f1f1f;
+  border-radius: 8px;
+  margin-top: 50px;
+}
+
+h1 {
+  color: #dadada;
+  text-align: center;
+}
+
+p {
+  color: #cfcfcf;
+  line-height: 1.6;
+}
+
+li {
+  color: #dadada;
+}
+
+a {
+  color: #447ffd;
+}
+
+a:hover {
+  color: #6399e0;
+}
+
+a:visited {
+  color: #a45eff;
+}
