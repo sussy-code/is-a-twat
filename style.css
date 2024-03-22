@@ -12,6 +12,17 @@ body {
   background-color: #1f1f1f;
   border-radius: 8px;
   margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+
+button {
+  width: 23%;
+  background-color: #dadada;
+  font-family: Arial, sans-serif;
+  border: solid 2px #dadada;
+  border-radius: 2px;
 }
 
 h1 {
